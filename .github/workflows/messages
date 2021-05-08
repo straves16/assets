@@ -1,0 +1,1015 @@
+<30738> Jan  2 06:35:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30739> Jan  2 06:35:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30740> Jan  2 06:36:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30741> Jan  2 06:36:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30742> Jan  2 06:36:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30743> Jan  2 06:37:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30744> Jan  2 06:37:25 (none) local5.info siege:  HAL, INFO, [998 ] {131845746}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30745> Jan  2 06:37:25 (none) local5.info siege:  HAL, INFO, [998 ] {131845748}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30746> Jan  2 06:37:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30747> Jan  2 06:37:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30748> Jan  2 06:38:12 (none) local5.info siege:  HAL, INFO, [965 ] {131892078}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30749> Jan  2 06:38:12 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {131892078}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30750> Jan  2 06:38:12 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {131892081}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30751> Jan  2 06:38:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30752> Jan  2 06:38:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30753> Jan  2 06:38:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30754> Jan  2 06:39:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30755> Jan  2 06:39:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30756> Jan  2 06:39:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30757> Jan  2 06:40:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30758> Jan  2 06:40:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30759> Jan  2 06:40:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30760> Jan  2 06:41:10 (none) local5.info siege:  HAL, INFO, [965 ] {132070233}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30761> Jan  2 06:41:10 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132070233}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30762> Jan  2 06:41:10 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132070234}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30763> Jan  2 06:41:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30764> Jan  2 06:41:25 (none) local5.info siege:  HAL, INFO, [998 ] {132085778}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30765> Jan  2 06:41:25 (none) local5.info siege:  HAL, INFO, [998 ] {132085780}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30766> Jan  2 06:41:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30767> Jan  2 06:41:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30768> Jan  2 06:42:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30769> Jan  2 06:42:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30770> Jan  2 06:42:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30771> Jan  2 06:43:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30772> Jan  2 06:43:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30773> Jan  2 06:43:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30774> Jan  2 06:44:08 (none) local5.info siege:  HAL, INFO, [965 ] {132248218}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30775> Jan  2 06:44:08 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132248218}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30776> Jan  2 06:44:08 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132248220}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30777> Jan  2 06:44:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30778> Jan  2 06:44:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30779> Jan  2 06:44:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30780> Jan  2 06:45:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30781> Jan  2 06:45:25 (none) local5.info siege:  HAL, INFO, [998 ] {132325811}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30782> Jan  2 06:45:25 (none) local5.info siege:  HAL, INFO, [998 ] {132325813}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30783> Jan  2 06:45:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30784> Jan  2 06:45:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30785> Jan  2 06:46:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30786> Jan  2 06:46:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30787> Jan  2 06:46:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30788> Jan  2 06:47:06 (none) local5.info siege:  HAL, INFO, [965 ] {132426394}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30789> Jan  2 06:47:06 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132426394}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30790> Jan  2 06:47:06 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132426397}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30791> Jan  2 06:47:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30792> Jan  2 06:47:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30793> Jan  2 06:47:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30794> Jan  2 06:48:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30795> Jan  2 06:48:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30796> Jan  2 06:48:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30797> Jan  2 06:49:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30798> Jan  2 06:49:25 (none) local5.info siege:  HAL, INFO, [998 ] {132565843}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30799> Jan  2 06:49:25 (none) local5.info siege:  HAL, INFO, [998 ] {132565845}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30800> Jan  2 06:49:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30801> Jan  2 06:49:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30802> Jan  2 06:50:04 (none) local5.info siege:  HAL, INFO, [965 ] {132604379}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30803> Jan  2 06:50:04 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132604379}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30804> Jan  2 06:50:04 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132604381}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30805> Jan  2 06:50:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30806> Jan  2 06:50:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30807> Jan  2 06:50:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30808> Jan  2 06:51:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30809> Jan  2 06:51:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30810> Jan  2 06:51:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30811> Jan  2 06:52:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30812> Jan  2 06:52:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30813> Jan  2 06:52:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30814> Jan  2 06:53:02 (none) local5.info siege:  HAL, INFO, [965 ] {132782534}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30815> Jan  2 06:53:02 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132782534}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30816> Jan  2 06:53:02 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132782536}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30817> Jan  2 06:53:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30818> Jan  2 06:53:25 (none) local5.info siege:  HAL, INFO, [998 ] {132805875}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30819> Jan  2 06:53:25 (none) local5.info siege:  HAL, INFO, [998 ] {132805877}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30820> Jan  2 06:53:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30821> Jan  2 06:53:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30822> Jan  2 06:54:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30823> Jan  2 06:54:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30824> Jan  2 06:54:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30825> Jan  2 06:55:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30826> Jan  2 06:55:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30827> Jan  2 06:55:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30828> Jan  2 06:56:00 (none) local5.info siege:  HAL, INFO, [965 ] {132960530}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30829> Jan  2 06:56:00 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {132960530}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30830> Jan  2 06:56:00 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {132960532}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30831> Jan  2 06:56:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30832> Jan  2 06:56:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30833> Jan  2 06:56:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30834> Jan  2 06:57:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30835> Jan  2 06:57:25 (none) local5.info siege:  HAL, INFO, [998 ] {133045907}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30836> Jan  2 06:57:25 (none) local5.info siege:  HAL, INFO, [998 ] {133045909}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30837> Jan  2 06:57:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30838> Jan  2 06:57:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30839> Jan  2 06:58:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30840> Jan  2 06:58:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30841> Jan  2 06:58:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30842> Jan  2 06:58:58 (none) local5.info siege:  HAL, INFO, [965 ] {133138755}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30843> Jan  2 06:58:58 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {133138755}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30844> Jan  2 06:58:58 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {133138757}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30845> Jan  2 06:59:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30846> Jan  2 06:59:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30847> Jan  2 06:59:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30848> Jan  2 07:00:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30849> Jan  2 07:00:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30850> Jan  2 07:00:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30851> Jan  2 07:01:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30852> Jan  2 07:01:25 (none) local5.info siege:  HAL, INFO, [998 ] {133285940}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30853> Jan  2 07:01:25 (none) local5.info siege:  HAL, INFO, [998 ] {133285942}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30854> Jan  2 07:01:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30855> Jan  2 07:01:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30856> Jan  2 07:01:56 (none) local5.info siege:  HAL, INFO, [965 ] {133316730}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30857> Jan  2 07:01:56 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {133316730}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30858> Jan  2 07:01:56 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {133316733}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30859> Jan  2 07:02:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30860> Jan  2 07:02:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30861> Jan  2 07:02:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30862> Jan  2 07:03:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30863> Jan  2 07:03:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30864> Jan  2 07:03:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30865> Jan  2 07:04:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30866> Jan  2 07:04:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30867> Jan  2 07:04:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30868> Jan  2 07:04:54 (none) local5.info siege:  HAL, INFO, [965 ] {133494876}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30869> Jan  2 07:04:54 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {133494876}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30870> Jan  2 07:04:54 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {133494878}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30871> Jan  2 07:05:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30872> Jan  2 07:05:25 (none) local5.info siege:  HAL, INFO, [998 ] {133525972}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30873> Jan  2 07:05:25 (none) local5.info siege:  HAL, INFO, [998 ] {133525974}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30874> Jan  2 07:05:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30875> Jan  2 07:05:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30876> Jan  2 07:06:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30877> Jan  2 07:06:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30878> Jan  2 07:06:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30879> Jan  2 07:07:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30880> Jan  2 07:07:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30881> Jan  2 07:07:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30882> Jan  2 07:07:52 (none) local5.info siege:  HAL, INFO, [965 ] {133672901}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30883> Jan  2 07:07:52 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {133672901}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30884> Jan  2 07:07:52 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {133672901}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30885> Jan  2 07:08:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30886> Jan  2 07:08:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30887> Jan  2 07:08:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30888> Jan  2 07:09:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30889> Jan  2 07:09:26 (none) local5.info siege:  HAL, INFO, [998 ] {133766006}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30890> Jan  2 07:09:26 (none) local5.info siege:  HAL, INFO, [998 ] {133766008}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30891> Jan  2 07:09:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30892> Jan  2 07:09:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30893> Jan  2 07:10:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30894> Jan  2 07:10:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30895> Jan  2 07:10:51 (none) local5.info siege:  HAL, INFO, [965 ] {133851116}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30896> Jan  2 07:10:51 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {133851116}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30897> Jan  2 07:10:51 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {133851118}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30898> Jan  2 07:10:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30899> Jan  2 07:11:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30900> Jan  2 07:11:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30901> Jan  2 07:11:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30902> Jan  2 07:12:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30903> Jan  2 07:12:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30904> Jan  2 07:12:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30905> Jan  2 07:13:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30906> Jan  2 07:13:26 (none) local5.info siege:  HAL, INFO, [998 ] {134006038}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30907> Jan  2 07:13:26 (none) local5.info siege:  HAL, INFO, [998 ] {134006040}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30908> Jan  2 07:13:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30909> Jan  2 07:13:49 (none) local5.info siege:  HAL, INFO, [965 ] {134029272}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30910> Jan  2 07:13:49 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134029272}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30911> Jan  2 07:13:49 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134029272}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30912> Jan  2 07:13:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30913> Jan  2 07:14:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30914> Jan  2 07:14:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30915> Jan  2 07:14:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30916> Jan  2 07:15:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30917> Jan  2 07:15:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30918> Jan  2 07:15:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30919> Jan  2 07:16:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30920> Jan  2 07:16:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30921> Jan  2 07:16:47 (none) local5.info siege:  HAL, INFO, [965 ] {134207287}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30922> Jan  2 07:16:47 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134207287}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30923> Jan  2 07:16:47 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134207289}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30924> Jan  2 07:16:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30925> Jan  2 07:17:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30926> Jan  2 07:17:26 (none) local5.info siege:  HAL, INFO, [998 ] {134246070}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30927> Jan  2 07:17:26 (none) local5.info siege:  HAL, INFO, [998 ] {134246072}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30928> Jan  2 07:17:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30929> Jan  2 07:17:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30930> Jan  2 07:18:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30931> Jan  2 07:18:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30932> Jan  2 07:18:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30933> Jan  2 07:19:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30934> Jan  2 07:19:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30935> Jan  2 07:19:45 (none) local5.info siege:  HAL, INFO, [965 ] {134385503}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30936> Jan  2 07:19:45 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134385503}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30937> Jan  2 07:19:45 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134385506}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30938> Jan  2 07:19:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30939> Jan  2 07:20:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30940> Jan  2 07:20:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30941> Jan  2 07:20:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30942> Jan  2 07:21:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30943> Jan  2 07:21:26 (none) local5.info siege:  HAL, INFO, [998 ] {134486103}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30944> Jan  2 07:21:26 (none) local5.info siege:  HAL, INFO, [998 ] {134486104}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30945> Jan  2 07:21:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30946> Jan  2 07:21:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30947> Jan  2 07:22:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30948> Jan  2 07:22:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30949> Jan  2 07:22:43 (none) local5.info siege:  HAL, INFO, [965 ] {134563498}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30950> Jan  2 07:22:43 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134563498}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30951> Jan  2 07:22:43 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134563500}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30952> Jan  2 07:22:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30953> Jan  2 07:23:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30954> Jan  2 07:23:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30955> Jan  2 07:23:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30956> Jan  2 07:24:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30957> Jan  2 07:24:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30958> Jan  2 07:24:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30959> Jan  2 07:25:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30960> Jan  2 07:25:26 (none) local5.info siege:  HAL, INFO, [998 ] {134726136}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30961> Jan  2 07:25:26 (none) local5.info siege:  HAL, INFO, [998 ] {134726138}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30962> Jan  2 07:25:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30963> Jan  2 07:25:41 (none) local5.info siege:  HAL, INFO, [965 ] {134741703}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30964> Jan  2 07:25:41 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134741703}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30965> Jan  2 07:25:41 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134741706}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30966> Jan  2 07:25:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30967> Jan  2 07:26:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<30968> Jan  2 07:26:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30969> Jan  2 07:26:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30970> Jan  2 07:27:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30971> Jan  2 07:27:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30972> Jan  2 07:27:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30973> Jan  2 07:28:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30974> Jan  2 07:28:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30975> Jan  2 07:28:39 (none) local5.info siege:  HAL, INFO, [965 ] {134919698}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30976> Jan  2 07:28:39 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {134919699}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30977> Jan  2 07:28:39 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {134919700}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30978> Jan  2 07:28:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30979> Jan  2 07:29:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30980> Jan  2 07:29:26 (none) local5.info siege:  HAL, INFO, [998 ] {134966169}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30981> Jan  2 07:29:26 (none) local5.info siege:  HAL, INFO, [998 ] {134966171}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30982> Jan  2 07:29:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30983> Jan  2 07:29:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30984> Jan  2 07:30:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30985> Jan  2 07:30:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30986> Jan  2 07:30:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30987> Jan  2 07:31:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30988> Jan  2 07:31:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30989> Jan  2 07:31:37 (none) local5.info siege:  HAL, INFO, [965 ] {135097894}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<30990> Jan  2 07:31:37 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135097894}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<30991> Jan  2 07:31:37 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135097895}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<30992> Jan  2 07:31:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30993> Jan  2 07:32:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30994> Jan  2 07:32:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30995> Jan  2 07:32:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30996> Jan  2 07:33:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<30997> Jan  2 07:33:26 (none) local5.info siege:  HAL, INFO, [998 ] {135206221}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<30998> Jan  2 07:33:26 (none) local5.info siege:  HAL, INFO, [998 ] {135206223}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<30999> Jan  2 07:33:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31000> Jan  2 07:33:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31001> Jan  2 07:34:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31002> Jan  2 07:34:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31003> Jan  2 07:34:35 (none) local5.info siege:  HAL, INFO, [965 ] {135275919}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31004> Jan  2 07:34:35 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135275919}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31005> Jan  2 07:34:35 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135275921}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31006> Jan  2 07:34:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31007> Jan  2 07:35:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31008> Jan  2 07:35:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31009> Jan  2 07:35:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31010> Jan  2 07:36:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31011> Jan  2 07:36:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31012> Jan  2 07:36:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31013> Jan  2 07:37:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31014> Jan  2 07:37:26 (none) local5.info siege:  HAL, INFO, [998 ] {135446253}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31015> Jan  2 07:37:26 (none) local5.info siege:  HAL, INFO, [998 ] {135446255}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31016> Jan  2 07:37:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31017> Jan  2 07:37:34 (none) local5.info siege:  HAL, INFO, [965 ] {135454074}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31018> Jan  2 07:37:34 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135454075}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31019> Jan  2 07:37:34 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135454077}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31020> Jan  2 07:37:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31021> Jan  2 07:38:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31022> Jan  2 07:38:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31023> Jan  2 07:38:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31024> Jan  2 07:39:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31025> Jan  2 07:39:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31026> Jan  2 07:39:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31027> Jan  2 07:40:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31028> Jan  2 07:40:32 (none) local5.info siege:  HAL, INFO, [965 ] {135632070}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31029> Jan  2 07:40:32 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135632070}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31030> Jan  2 07:40:32 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135632072}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31031> Jan  2 07:40:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31032> Jan  2 07:40:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31033> Jan  2 07:41:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31034> Jan  2 07:41:26 (none) local5.info siege:  HAL, INFO, [998 ] {135686285}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31035> Jan  2 07:41:26 (none) local5.info siege:  HAL, INFO, [998 ] {135686287}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31036> Jan  2 07:41:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31037> Jan  2 07:41:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31038> Jan  2 07:42:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31039> Jan  2 07:42:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31040> Jan  2 07:42:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31041> Jan  2 07:43:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31042> Jan  2 07:43:30 (none) local5.info siege:  HAL, INFO, [965 ] {135810235}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31043> Jan  2 07:43:30 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135810235}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31044> Jan  2 07:43:30 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135810237}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31045> Jan  2 07:43:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31046> Jan  2 07:43:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31047> Jan  2 07:44:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31048> Jan  2 07:44:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31049> Jan  2 07:44:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31050> Jan  2 07:45:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31051> Jan  2 07:45:26 (none) local5.info siege:  HAL, INFO, [998 ] {135926318}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31052> Jan  2 07:45:26 (none) local5.info siege:  HAL, INFO, [998 ] {135926321}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31053> Jan  2 07:45:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31054> Jan  2 07:45:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31055> Jan  2 07:46:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31056> Jan  2 07:46:28 (none) local5.info siege:  HAL, INFO, [965 ] {135988231}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31057> Jan  2 07:46:28 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {135988231}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31058> Jan  2 07:46:28 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {135988231}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31059> Jan  2 07:46:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31060> Jan  2 07:46:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31061> Jan  2 07:47:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31062> Jan  2 07:47:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31063> Jan  2 07:47:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31064> Jan  2 07:48:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31065> Jan  2 07:48:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31066> Jan  2 07:48:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31067> Jan  2 07:49:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31068> Jan  2 07:49:26 (none) local5.info siege:  HAL, INFO, [998 ] {136166357}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31069> Jan  2 07:49:26 (none) local5.info siege:  HAL, INFO, [998 ] {136166359}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31070> Jan  2 07:49:26 (none) local5.info siege:  HAL, INFO, [965 ] {136166426}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31071> Jan  2 07:49:26 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {136166426}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31072> Jan  2 07:49:26 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {136166426}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31073> Jan  2 07:49:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31074> Jan  2 07:49:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31075> Jan  2 07:50:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31076> Jan  2 07:50:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31077> Jan  2 07:50:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31078> Jan  2 07:51:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31079> Jan  2 07:51:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31080> Jan  2 07:51:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31081> Jan  2 07:52:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31082> Jan  2 07:52:24 (none) local5.info siege:  HAL, INFO, [965 ] {136344431}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31083> Jan  2 07:52:24 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {136344431}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31084> Jan  2 07:52:24 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {136344433}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31085> Jan  2 07:52:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31086> Jan  2 07:52:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31087> Jan  2 07:53:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31088> Jan  2 07:53:26 (none) local5.info siege:  HAL, INFO, [998 ] {136406389}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31089> Jan  2 07:53:26 (none) local5.info siege:  HAL, INFO, [998 ] {136406391}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31090> Jan  2 07:53:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31091> Jan  2 07:53:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31092> Jan  2 07:54:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31093> Jan  2 07:54:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31094> Jan  2 07:54:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31095> Jan  2 07:55:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31096> Jan  2 07:55:22 (none) local5.info siege:  HAL, INFO, [965 ] {136522687}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31097> Jan  2 07:55:22 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {136522687}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31098> Jan  2 07:55:22 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {136522689}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31099> Jan  2 07:55:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31100> Jan  2 07:55:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31101> Jan  2 07:56:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31102> Jan  2 07:56:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31103> Jan  2 07:56:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31104> Jan  2 07:57:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31105> Jan  2 07:57:26 (none) local5.info siege:  HAL, INFO, [998 ] {136646421}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31106> Jan  2 07:57:26 (none) local5.info siege:  HAL, INFO, [998 ] {136646423}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31107> Jan  2 07:57:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31108> Jan  2 07:57:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31109> Jan  2 07:58:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31110> Jan  2 07:58:20 (none) local5.info siege:  HAL, INFO, [965 ] {136700702}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31111> Jan  2 07:58:20 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {136700702}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31112> Jan  2 07:58:20 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {136700704}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31113> Jan  2 07:58:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31114> Jan  2 07:58:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31115> Jan  2 07:59:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31116> Jan  2 07:59:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31117> Jan  2 07:59:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31118> Jan  2 08:00:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31119> Jan  2 08:00:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31120> Jan  2 08:00:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31121> Jan  2 08:01:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31122> Jan  2 08:01:18 (none) local5.info siege:  HAL, INFO, [965 ] {136878867}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31123> Jan  2 08:01:18 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {136878867}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31124> Jan  2 08:01:18 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {136878869}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31125> Jan  2 08:01:26 (none) local5.info siege:  HAL, INFO, [998 ] {136886468}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31126> Jan  2 08:01:26 (none) local5.info siege:  HAL, INFO, [998 ] {136886470}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31127> Jan  2 08:01:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31128> Jan  2 08:01:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31129> Jan  2 08:02:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31130> Jan  2 08:02:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31131> Jan  2 08:02:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31132> Jan  2 08:03:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31133> Jan  2 08:03:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31134> Jan  2 08:03:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31135> Jan  2 08:04:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31136> Jan  2 08:04:16 (none) local5.info siege:  HAL, INFO, [965 ] {137056853}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31137> Jan  2 08:04:16 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137056853}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31138> Jan  2 08:04:16 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137056854}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31139> Jan  2 08:04:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31140> Jan  2 08:04:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31141> Jan  2 08:05:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31142> Jan  2 08:05:26 (none) local5.info siege:  HAL, INFO, [998 ] {137126500}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31143> Jan  2 08:05:26 (none) local5.info siege:  HAL, INFO, [998 ] {137126503}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31144> Jan  2 08:05:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31145> Jan  2 08:05:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31146> Jan  2 08:06:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31147> Jan  2 08:06:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31148> Jan  2 08:06:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31149> Jan  2 08:07:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31150> Jan  2 08:07:15 (none) local5.info siege:  HAL, INFO, [965 ] {137235078}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31151> Jan  2 08:07:15 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137235078}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31152> Jan  2 08:07:15 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137235081}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31153> Jan  2 08:07:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31154> Jan  2 08:07:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31155> Jan  2 08:08:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31156> Jan  2 08:08:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31157> Jan  2 08:08:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31158> Jan  2 08:09:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31159> Jan  2 08:09:26 (none) local5.info siege:  HAL, INFO, [998 ] {137366532}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31160> Jan  2 08:09:26 (none) local5.info siege:  HAL, INFO, [998 ] {137366534}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31161> Jan  2 08:09:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31162> Jan  2 08:09:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31163> Jan  2 08:10:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31164> Jan  2 08:10:13 (none) local5.info siege:  HAL, INFO, [965 ] {137413063}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31165> Jan  2 08:10:13 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137413063}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31166> Jan  2 08:10:13 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137413065}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31167> Jan  2 08:10:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31168> Jan  2 08:10:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31169> Jan  2 08:11:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31170> Jan  2 08:11:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31171> Jan  2 08:11:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31172> Jan  2 08:12:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31173> Jan  2 08:12:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31174> Jan  2 08:12:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31175> Jan  2 08:13:11 (none) local5.info siege:  HAL, INFO, [965 ] {137591219}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31176> Jan  2 08:13:11 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137591219}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31177> Jan  2 08:13:11 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137591220}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31178> Jan  2 08:13:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31179> Jan  2 08:13:26 (none) local5.info siege:  HAL, INFO, [998 ] {137606564}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31180> Jan  2 08:13:26 (none) local5.info siege:  HAL, INFO, [998 ] {137606566}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31181> Jan  2 08:13:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31182> Jan  2 08:13:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31183> Jan  2 08:14:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31184> Jan  2 08:14:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31185> Jan  2 08:14:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31186> Jan  2 08:15:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31187> Jan  2 08:15:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31188> Jan  2 08:15:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31189> Jan  2 08:16:09 (none) local5.info siege:  HAL, INFO, [965 ] {137769404}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31190> Jan  2 08:16:09 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137769404}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31191> Jan  2 08:16:09 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137769406}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31192> Jan  2 08:16:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31193> Jan  2 08:16:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31194> Jan  2 08:16:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31195> Jan  2 08:17:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31196> Jan  2 08:17:26 (none) local5.info siege:  HAL, INFO, [998 ] {137846596}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31197> Jan  2 08:17:26 (none) local5.info siege:  HAL, INFO, [998 ] {137846598}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31198> Jan  2 08:17:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31199> Jan  2 08:17:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31200> Jan  2 08:18:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31201> Jan  2 08:18:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31202> Jan  2 08:18:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31203> Jan  2 08:19:07 (none) local5.info siege:  HAL, INFO, [965 ] {137947389}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31204> Jan  2 08:19:07 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {137947390}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31205> Jan  2 08:19:07 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {137947391}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31206> Jan  2 08:19:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31207> Jan  2 08:19:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31208> Jan  2 08:19:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31209> Jan  2 08:20:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31210> Jan  2 08:20:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31211> Jan  2 08:20:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31212> Jan  2 08:21:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31213> Jan  2 08:21:26 (none) local5.info siege:  HAL, INFO, [998 ] {138086645}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31214> Jan  2 08:21:26 (none) local5.info siege:  HAL, INFO, [998 ] {138086647}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31215> Jan  2 08:21:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31216> Jan  2 08:21:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31217> Jan  2 08:22:05 (none) local5.info siege:  HAL, INFO, [965 ] {138125555}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31218> Jan  2 08:22:05 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {138125555}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31219> Jan  2 08:22:05 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {138125557}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31220> Jan  2 08:22:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31221> Jan  2 08:22:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31222> Jan  2 08:22:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31223> Jan  2 08:23:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31224> Jan  2 08:23:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31225> Jan  2 08:23:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31226> Jan  2 08:24:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31227> Jan  2 08:24:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31228> Jan  2 08:24:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31229> Jan  2 08:25:03 (none) local5.info siege:  HAL, INFO, [965 ] {138303560}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31230> Jan  2 08:25:03 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {138303560}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31231> Jan  2 08:25:03 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {138303561}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31232> Jan  2 08:25:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31233> Jan  2 08:25:26 (none) local5.info siege:  HAL, INFO, [998 ] {138326678}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31234> Jan  2 08:25:26 (none) local5.info siege:  HAL, INFO, [998 ] {138326680}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31235> Jan  2 08:25:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31236> Jan  2 08:25:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31237> Jan  2 08:26:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31238> Jan  2 08:26:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31239> Jan  2 08:26:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31240> Jan  2 08:27:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31241> Jan  2 08:27:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31242> Jan  2 08:27:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31243> Jan  2 08:28:01 (none) local5.info siege:  HAL, INFO, [965 ] {138481745}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31244> Jan  2 08:28:01 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {138481746}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31245> Jan  2 08:28:01 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {138481748}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31246> Jan  2 08:28:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31247> Jan  2 08:28:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31248> Jan  2 08:28:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31249> Jan  2 08:29:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31250> Jan  2 08:29:26 (none) local5.info siege:  HAL, INFO, [998 ] {138566710}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31251> Jan  2 08:29:26 (none) local5.info siege:  HAL, INFO, [998 ] {138566712}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31252> Jan  2 08:29:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31253> Jan  2 08:29:52 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31254> Jan  2 08:30:12 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31255> Jan  2 08:30:32 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31256> Jan  2 08:30:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31257> Jan  2 08:30:59 (none) local5.info siege:  HAL, INFO, [965 ] {138659771}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31258> Jan  2 08:30:59 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {138659771}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31259> Jan  2 08:30:59 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {138659773}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31260> Jan  2 08:31:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31261> Jan  2 08:31:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31262> Jan  2 08:31:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31263> Jan  2 08:32:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31264> Jan  2 08:32:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31265> Jan  2 08:32:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31266> Jan  2 08:33:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31267> Jan  2 08:33:26 (none) local5.info siege:  HAL, INFO, [998 ] {138806742}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31268> Jan  2 08:33:26 (none) local5.info siege:  HAL, INFO, [998 ] {138806744}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31269> Jan  2 08:33:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31270> Jan  2 08:33:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31271> Jan  2 08:33:57 (none) local5.info siege:  HAL, INFO, [965 ] {138837966}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31272> Jan  2 08:33:57 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {138837966}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31273> Jan  2 08:33:57 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {138837968}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31274> Jan  2 08:34:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31275> Jan  2 08:34:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31276> Jan  2 08:34:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31277> Jan  2 08:35:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31278> Jan  2 08:35:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31279> Jan  2 08:35:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31280> Jan  2 08:36:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31281> Jan  2 08:36:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31282> Jan  2 08:36:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31283> Jan  2 08:36:55 (none) local5.info siege:  HAL, INFO, [965 ] {139015972}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31284> Jan  2 08:36:55 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139015972}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31285> Jan  2 08:36:55 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139015973}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31286> Jan  2 08:37:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31287> Jan  2 08:37:26 (none) local5.info siege:  HAL, INFO, [998 ] {139046775}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31288> Jan  2 08:37:26 (none) local5.info siege:  HAL, INFO, [998 ] {139046777}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31289> Jan  2 08:37:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31290> Jan  2 08:37:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31291> Jan  2 08:38:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31292> Jan  2 08:38:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31293> Jan  2 08:38:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31294> Jan  2 08:39:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31295> Jan  2 08:39:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31296> Jan  2 08:39:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31297> Jan  2 08:39:54 (none) local5.info siege:  HAL, INFO, [965 ] {139194137}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31298> Jan  2 08:39:54 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139194137}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31299> Jan  2 08:39:54 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139194139}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31300> Jan  2 08:40:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31301> Jan  2 08:40:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31302> Jan  2 08:40:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31303> Jan  2 08:41:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31304> Jan  2 08:41:26 (none) local5.info siege:  HAL, INFO, [998 ] {139286808}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31305> Jan  2 08:41:26 (none) local5.info siege:  HAL, INFO, [998 ] {139286811}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31306> Jan  2 08:41:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31307> Jan  2 08:41:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31308> Jan  2 08:42:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31309> Jan  2 08:42:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31310> Jan  2 08:42:52 (none) local5.info siege:  HAL, INFO, [965 ] {139372122}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31311> Jan  2 08:42:52 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139372122}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31312> Jan  2 08:42:52 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139372124}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31313> Jan  2 08:42:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31314> Jan  2 08:43:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31315> Jan  2 08:43:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31316> Jan  2 08:43:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31317> Jan  2 08:44:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31318> Jan  2 08:44:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31319> Jan  2 08:44:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31320> Jan  2 08:45:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31321> Jan  2 08:45:26 (none) local5.info siege:  HAL, INFO, [998 ] {139526841}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31322> Jan  2 08:45:26 (none) local5.info siege:  HAL, INFO, [998 ] {139526843}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31323> Jan  2 08:45:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31324> Jan  2 08:45:50 (none) local5.info siege:  HAL, INFO, [965 ] {139550298}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31325> Jan  2 08:45:50 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139550298}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31326> Jan  2 08:45:50 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139550300}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31327> Jan  2 08:45:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31328> Jan  2 08:46:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31329> Jan  2 08:46:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31330> Jan  2 08:46:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31331> Jan  2 08:47:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31332> Jan  2 08:47:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31333> Jan  2 08:47:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31334> Jan  2 08:48:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31335> Jan  2 08:48:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31336> Jan  2 08:48:48 (none) local5.info siege:  HAL, INFO, [965 ] {139728283}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31337> Jan  2 08:48:48 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139728283}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31338> Jan  2 08:48:48 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139728284}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31339> Jan  2 08:48:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31340> Jan  2 08:49:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31341> Jan  2 08:49:26 (none) local5.info siege:  HAL, INFO, [998 ] {139766873}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31342> Jan  2 08:49:26 (none) local5.info siege:  HAL, INFO, [998 ] {139766875}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31343> Jan  2 08:49:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31344> Jan  2 08:49:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31345> Jan  2 08:50:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31346> Jan  2 08:50:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31347> Jan  2 08:50:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31348> Jan  2 08:51:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31349> Jan  2 08:51:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31350> Jan  2 08:51:46 (none) local5.info siege:  HAL, INFO, [965 ] {139906478}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31351> Jan  2 08:51:46 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {139906478}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31352> Jan  2 08:51:46 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {139906479}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31353> Jan  2 08:51:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31354> Jan  2 08:52:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31355> Jan  2 08:52:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31356> Jan  2 08:52:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31357> Jan  2 08:53:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31358> Jan  2 08:53:26 (none) local5.info siege:  HAL, INFO, [998 ] {140006926}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31359> Jan  2 08:53:26 (none) local5.info siege:  HAL, INFO, [998 ] {140006929}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31360> Jan  2 08:53:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31361> Jan  2 08:53:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31362> Jan  2 08:54:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31363> Jan  2 08:54:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31364> Jan  2 08:54:44 (none) local5.info siege:  HAL, INFO, [965 ] {140084504}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31365> Jan  2 08:54:44 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140084504}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31366> Jan  2 08:54:44 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140084505}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31367> Jan  2 08:54:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31368> Jan  2 08:55:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31369> Jan  2 08:55:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31370> Jan  2 08:55:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31371> Jan  2 08:56:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31372> Jan  2 08:56:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31373> Jan  2 08:56:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31374> Jan  2 08:57:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31375> Jan  2 08:57:26 (none) local5.info siege:  HAL, INFO, [998 ] {140246960}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31376> Jan  2 08:57:26 (none) local5.info siege:  HAL, INFO, [998 ] {140246962}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31377> Jan  2 08:57:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31378> Jan  2 08:57:42 (none) local5.info siege:  HAL, INFO, [965 ] {140262729}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31379> Jan  2 08:57:42 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140262729}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31380> Jan  2 08:57:42 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140262732}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31381> Jan  2 08:57:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31382> Jan  2 08:58:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31383> Jan  2 08:58:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31384> Jan  2 08:58:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31385> Jan  2 08:59:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31386> Jan  2 08:59:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31387> Jan  2 08:59:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31388> Jan  2 09:00:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31389> Jan  2 09:00:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31390> Jan  2 09:00:40 (none) local5.info siege:  HAL, INFO, [965 ] {140440714}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31391> Jan  2 09:00:40 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140440715}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31392> Jan  2 09:00:40 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140440717}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31393> Jan  2 09:00:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31394> Jan  2 09:01:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31395> Jan  2 09:01:26 (none) local5.info siege:  HAL, INFO, [998 ] {140486992}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31396> Jan  2 09:01:26 (none) local5.info siege:  HAL, INFO, [998 ] {140486994}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31397> Jan  2 09:01:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31398> Jan  2 09:01:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31399> Jan  2 09:02:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31400> Jan  2 09:02:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31401> Jan  2 09:02:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31402> Jan  2 09:03:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31403> Jan  2 09:03:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31404> Jan  2 09:03:38 (none) local5.info siege:  HAL, INFO, [965 ] {140618900}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31405> Jan  2 09:03:38 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140618900}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31406> Jan  2 09:03:38 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140618902}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31407> Jan  2 09:03:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31408> Jan  2 09:04:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31409> Jan  2 09:04:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31410> Jan  2 09:04:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31411> Jan  2 09:05:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31412> Jan  2 09:05:27 (none) local5.info siege:  HAL, INFO, [998 ] {140727024}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31413> Jan  2 09:05:27 (none) local5.info siege:  HAL, INFO, [998 ] {140727026}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31414> Jan  2 09:05:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31415> Jan  2 09:05:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31416> Jan  2 09:06:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31417> Jan  2 09:06:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31418> Jan  2 09:06:36 (none) local5.info siege:  HAL, INFO, [965 ] {140796905}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31419> Jan  2 09:06:36 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140796905}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31420> Jan  2 09:06:36 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140796907}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31421> Jan  2 09:06:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31422> Jan  2 09:07:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31423> Jan  2 09:07:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31424> Jan  2 09:07:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31425> Jan  2 09:08:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31426> Jan  2 09:08:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31427> Jan  2 09:08:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31428> Jan  2 09:09:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31429> Jan  2 09:09:27 (none) local5.info siege:  HAL, INFO, [998 ] {140967057}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31430> Jan  2 09:09:27 (none) local5.info siege:  HAL, INFO, [998 ] {140967059}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31431> Jan  2 09:09:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31432> Jan  2 09:09:35 (none) local5.info siege:  HAL, INFO, [965 ] {140975061}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31433> Jan  2 09:09:35 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {140975061}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31434> Jan  2 09:09:35 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {140975063}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31435> Jan  2 09:09:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31436> Jan  2 09:10:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31437> Jan  2 09:10:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31438> Jan  2 09:10:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31439> Jan  2 09:11:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31440> Jan  2 09:11:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31441> Jan  2 09:11:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31442> Jan  2 09:12:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31443> Jan  2 09:12:33 (none) local5.info siege:  HAL, INFO, [965 ] {141153076}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31444> Jan  2 09:12:33 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {141153076}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31445> Jan  2 09:12:33 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {141153078}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31446> Jan  2 09:12:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31447> Jan  2 09:12:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31448> Jan  2 09:13:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31449> Jan  2 09:13:27 (none) local5.info siege:  HAL, INFO, [998 ] {141207089}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31450> Jan  2 09:13:27 (none) local5.info siege:  HAL, INFO, [998 ] {141207091}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31451> Jan  2 09:13:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31452> Jan  2 09:13:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31453> Jan  2 09:14:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31454> Jan  2 09:14:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31455> Jan  2 09:14:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31456> Jan  2 09:15:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31457> Jan  2 09:15:31 (none) local5.info siege:  HAL, INFO, [965 ] {141331281}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31458> Jan  2 09:15:31 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {141331281}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31459> Jan  2 09:15:31 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {141331284}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31460> Jan  2 09:15:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31461> Jan  2 09:15:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31462> Jan  2 09:16:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31463> Jan  2 09:16:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31464> Jan  2 09:16:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31465> Jan  2 09:17:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31466> Jan  2 09:17:27 (none) local5.info siege:  HAL, INFO, [998 ] {141447121}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31467> Jan  2 09:17:27 (none) local5.info siege:  HAL, INFO, [998 ] {141447123}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31468> Jan  2 09:17:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31469> Jan  2 09:17:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31470> Jan  2 09:18:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31471> Jan  2 09:18:29 (none) local5.info siege:  HAL, INFO, [965 ] {141509447}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31472> Jan  2 09:18:29 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {141509447}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31473> Jan  2 09:18:29 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {141509449}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31474> Jan  2 09:18:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31475> Jan  2 09:18:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31476> Jan  2 09:19:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31477> Jan  2 09:19:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31478> Jan  2 09:19:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31479> Jan  2 09:20:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31480> Jan  2 09:20:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31481> Jan  2 09:20:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31482> Jan  2 09:21:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31483> Jan  2 09:21:27 (none) local5.info siege:  HAL, INFO, [998 ] {141687153}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31484> Jan  2 09:21:27 (none) local5.info siege:  HAL, INFO, [998 ] {141687155}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31485> Jan  2 09:21:27 (none) local5.info siege:  HAL, INFO, [965 ] {141687462}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31486> Jan  2 09:21:27 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {141687462}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31487> Jan  2 09:21:27 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {141687464}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31488> Jan  2 09:21:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31489> Jan  2 09:21:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31490> Jan  2 09:22:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31491> Jan  2 09:22:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31492> Jan  2 09:22:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31493> Jan  2 09:23:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31494> Jan  2 09:23:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31495> Jan  2 09:23:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31496> Jan  2 09:24:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31497> Jan  2 09:24:25 (none) local5.info siege:  HAL, INFO, [965 ] {141865628}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31498> Jan  2 09:24:25 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {141865628}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31499> Jan  2 09:24:25 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {141865630}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31500> Jan  2 09:24:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31501> Jan  2 09:24:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31502> Jan  2 09:25:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31503> Jan  2 09:25:27 (none) local5.info siege:  HAL, INFO, [998 ] {141927186}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31504> Jan  2 09:25:27 (none) local5.info siege:  HAL, INFO, [998 ] {141927188}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31505> Jan  2 09:25:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31506> Jan  2 09:25:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31507> Jan  2 09:26:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31508> Jan  2 09:26:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31509> Jan  2 09:26:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31510> Jan  2 09:27:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31511> Jan  2 09:27:23 (none) local5.info siege:  HAL, INFO, [965 ] {142043663}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31512> Jan  2 09:27:23 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142043663}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31513> Jan  2 09:27:23 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142043665}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31514> Jan  2 09:27:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31515> Jan  2 09:27:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31516> Jan  2 09:27:54 (none) user.notice motocap: [GC#13 16588K->10036K(65536K), 0.180000 secs]
+<31517> Jan  2 09:28:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31518> Jan  2 09:28:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31519> Jan  2 09:28:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31520> Jan  2 09:29:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31521> Jan  2 09:29:27 (none) local5.info siege:  HAL, INFO, [998 ] {142167218}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31522> Jan  2 09:29:27 (none) local5.info siege:  HAL, INFO, [998 ] {142167221}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31523> Jan  2 09:29:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31524> Jan  2 09:29:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31525> Jan  2 09:30:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31526> Jan  2 09:30:21 (none) local5.info siege:  HAL, INFO, [965 ] {142221848}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31527> Jan  2 09:30:21 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142221848}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31528> Jan  2 09:30:21 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142221850}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31529> Jan  2 09:30:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31530> Jan  2 09:30:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31531> Jan  2 09:31:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31532> Jan  2 09:31:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31533> Jan  2 09:31:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31534> Jan  2 09:32:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31535> Jan  2 09:32:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31536> Jan  2 09:32:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31537> Jan  2 09:33:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31538> Jan  2 09:33:19 (none) local5.info siege:  HAL, INFO, [965 ] {142399834}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31539> Jan  2 09:33:19 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142399834}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31540> Jan  2 09:33:19 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142399835}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31541> Jan  2 09:33:27 (none) local5.info siege:  HAL, INFO, [998 ] {142407251}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31542> Jan  2 09:33:27 (none) local5.info siege:  HAL, INFO, [998 ] {142407253}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31543> Jan  2 09:33:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31544> Jan  2 09:33:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31545> Jan  2 09:34:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31546> Jan  2 09:34:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31547> Jan  2 09:34:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31548> Jan  2 09:35:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31549> Jan  2 09:35:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31550> Jan  2 09:35:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31551> Jan  2 09:36:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31552> Jan  2 09:36:18 (none) local5.info siege:  HAL, INFO, [965 ] {142578049}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31553> Jan  2 09:36:18 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142578049}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31554> Jan  2 09:36:18 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142578051}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31555> Jan  2 09:36:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31556> Jan  2 09:36:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31557> Jan  2 09:37:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31558> Jan  2 09:37:27 (none) local5.info siege:  HAL, INFO, [998 ] {142647283}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31559> Jan  2 09:37:27 (none) local5.info siege:  HAL, INFO, [998 ] {142647285}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31560> Jan  2 09:37:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31561> Jan  2 09:37:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31562> Jan  2 09:38:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31563> Jan  2 09:38:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31564> Jan  2 09:38:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31565> Jan  2 09:39:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31566> Jan  2 09:39:16 (none) local5.info siege:  HAL, INFO, [965 ] {142756044}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31567> Jan  2 09:39:16 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142756044}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31568> Jan  2 09:39:16 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142756046}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31569> Jan  2 09:39:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31570> Jan  2 09:39:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31571> Jan  2 09:40:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31572> Jan  2 09:40:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31573> Jan  2 09:40:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31574> Jan  2 09:41:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31575> Jan  2 09:41:27 (none) local5.info siege:  HAL, INFO, [998 ] {142887315}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31576> Jan  2 09:41:27 (none) local5.info siege:  HAL, INFO, [998 ] {142887317}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31577> Jan  2 09:41:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31578> Jan  2 09:41:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31579> Jan  2 09:42:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31580> Jan  2 09:42:14 (none) local5.info siege:  HAL, INFO, [965 ] {142934229}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31581> Jan  2 09:42:14 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {142934230}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31582> Jan  2 09:42:14 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {142934232}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31583> Jan  2 09:42:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31584> Jan  2 09:42:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31585> Jan  2 09:43:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31586> Jan  2 09:43:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31587> Jan  2 09:43:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31588> Jan  2 09:44:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31589> Jan  2 09:44:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31590> Jan  2 09:44:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31591> Jan  2 09:45:12 (none) local5.info siege:  HAL, INFO, [965 ] {143112235}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31592> Jan  2 09:45:12 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {143112235}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31593> Jan  2 09:45:12 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {143112237}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31594> Jan  2 09:45:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31595> Jan  2 09:45:27 (none) local5.info siege:  HAL, INFO, [998 ] {143127365}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31596> Jan  2 09:45:27 (none) local5.info siege:  HAL, INFO, [998 ] {143127367}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31597> Jan  2 09:45:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31598> Jan  2 09:45:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31599> Jan  2 09:46:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31600> Jan  2 09:46:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31601> Jan  2 09:46:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31602> Jan  2 09:47:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31603> Jan  2 09:47:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31604> Jan  2 09:47:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31605> Jan  2 09:48:10 (none) local5.info siege:  HAL, INFO, [965 ] {143290380}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31606> Jan  2 09:48:10 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {143290380}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31607> Jan  2 09:48:10 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {143290382}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31608> Jan  2 09:48:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31609> Jan  2 09:48:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31610> Jan  2 09:48:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31611> Jan  2 09:49:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31612> Jan  2 09:49:27 (none) local5.info siege:  HAL, INFO, [998 ] {143367397}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31613> Jan  2 09:49:27 (none) local5.info siege:  HAL, INFO, [998 ] {143367399}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31614> Jan  2 09:49:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31615> Jan  2 09:49:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31616> Jan  2 09:50:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31617> Jan  2 09:50:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31618> Jan  2 09:50:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31619> Jan  2 09:51:08 (none) local5.info siege:  HAL, INFO, [965 ] {143468406}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31620> Jan  2 09:51:08 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {143468406}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31621> Jan  2 09:51:08 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {143468408}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31622> Jan  2 09:51:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31623> Jan  2 09:51:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31624> Jan  2 09:51:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31625> Jan  2 09:52:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31626> Jan  2 09:52:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31627> Jan  2 09:52:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31628> Jan  2 09:53:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31629> Jan  2 09:53:27 (none) local5.info siege:  HAL, INFO, [998 ] {143607430}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31630> Jan  2 09:53:27 (none) local5.info siege:  HAL, INFO, [998 ] {143607432}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31631> Jan  2 09:53:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31632> Jan  2 09:53:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31633> Jan  2 09:54:06 (none) local5.info siege:  HAL, INFO, [965 ] {143646581}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31634> Jan  2 09:54:06 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {143646581}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31635> Jan  2 09:54:06 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {143646583}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31636> Jan  2 09:54:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31637> Jan  2 09:54:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31638> Jan  2 09:54:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31639> Jan  2 09:55:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31640> Jan  2 09:55:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31641> Jan  2 09:55:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31642> Jan  2 09:56:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31643> Jan  2 09:56:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31644> Jan  2 09:56:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31645> Jan  2 09:57:04 (none) local5.info siege:  HAL, INFO, [965 ] {143824606}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31646> Jan  2 09:57:04 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {143824606}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31647> Jan  2 09:57:04 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {143824609}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31648> Jan  2 09:57:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31649> Jan  2 09:57:27 (none) local5.info siege:  HAL, INFO, [998 ] {143847463}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31650> Jan  2 09:57:27 (none) local5.info siege:  HAL, INFO, [998 ] {143847467}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31651> Jan  2 09:57:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31652> Jan  2 09:57:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31653> Jan  2 09:58:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31654> Jan  2 09:58:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31655> Jan  2 09:58:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31656> Jan  2 09:59:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31657> Jan  2 09:59:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31658> Jan  2 09:59:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31659> Jan  2 10:00:02 (none) local5.info siege:  HAL, INFO, [965 ] {144002762}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31660> Jan  2 10:00:02 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144002762}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31661> Jan  2 10:00:02 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144002764}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31662> Jan  2 10:00:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31663> Jan  2 10:00:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31664> Jan  2 10:00:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31665> Jan  2 10:01:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31666> Jan  2 10:01:27 (none) local5.info siege:  HAL, INFO, [998 ] {144087498}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31667> Jan  2 10:01:27 (none) local5.info siege:  HAL, INFO, [998 ] {144087500}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31668> Jan  2 10:01:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31669> Jan  2 10:01:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31670> Jan  2 10:02:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31671> Jan  2 10:02:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31672> Jan  2 10:02:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31673> Jan  2 10:03:00 (none) local5.info siege:  HAL, INFO, [965 ] {144180777}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31674> Jan  2 10:03:00 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144180777}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31675> Jan  2 10:03:00 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144180779}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31676> Jan  2 10:03:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31677> Jan  2 10:03:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31678> Jan  2 10:03:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31679> Jan  2 10:04:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31680> Jan  2 10:04:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31681> Jan  2 10:04:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31682> Jan  2 10:05:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31683> Jan  2 10:05:27 (none) local5.info siege:  HAL, INFO, [998 ] {144327531}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31684> Jan  2 10:05:27 (none) local5.info siege:  HAL, INFO, [998 ] {144327533}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31685> Jan  2 10:05:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31686> Jan  2 10:05:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31687> Jan  2 10:05:58 (none) local5.info siege:  HAL, INFO, [965 ] {144358933}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31688> Jan  2 10:05:58 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144358933}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31689> Jan  2 10:05:58 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144358935}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31690> Jan  2 10:06:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31691> Jan  2 10:06:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31692> Jan  2 10:06:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31693> Jan  2 10:07:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31694> Jan  2 10:07:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31695> Jan  2 10:07:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31696> Jan  2 10:08:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31697> Jan  2 10:08:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31698> Jan  2 10:08:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31699> Jan  2 10:08:56 (none) local5.info siege:  HAL, INFO, [965 ] {144536908}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31700> Jan  2 10:08:56 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144536908}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31701> Jan  2 10:08:56 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144536910}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31702> Jan  2 10:09:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31703> Jan  2 10:09:27 (none) local5.info siege:  HAL, INFO, [998 ] {144567564}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31704> Jan  2 10:09:27 (none) local5.info siege:  HAL, INFO, [998 ] {144567566}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31705> Jan  2 10:09:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31706> Jan  2 10:09:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31707> Jan  2 10:10:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31708> Jan  2 10:10:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31709> Jan  2 10:10:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31710> Jan  2 10:11:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31711> Jan  2 10:11:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31712> Jan  2 10:11:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31713> Jan  2 10:11:55 (none) local5.info siege:  HAL, INFO, [965 ] {144715113}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31714> Jan  2 10:11:55 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144715113}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31715> Jan  2 10:11:55 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144715116}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31716> Jan  2 10:12:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31717> Jan  2 10:12:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31718> Jan  2 10:12:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31719> Jan  2 10:13:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31720> Jan  2 10:13:27 (none) local5.info siege:  HAL, INFO, [998 ] {144807597}, ../Src/PclEcmMonitor.cpp, 348, GetEcmStatus(): /opt/perm/eCmErrorCount exists! Update it
+<31721> Jan  2 10:13:27 (none) local5.info siege:  HAL, INFO, [998 ] {144807599}, ../Src/PclEcmMonitor.cpp, 448, GetEstbStatus(): /opt/perm/eStbErrorCount exists! Update it
+<31722> Jan  2 10:13:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31723> Jan  2 10:13:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31724> Jan  2 10:14:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31725> Jan  2 10:14:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31726> Jan  2 10:14:53 (none) local5.info siege:  HAL, INFO, [965 ] {144893129}, ../Src/CableModem/nexus/HalCableModemBcm.cpp, 3191, pHalCmNotifyEvent event: HAL_CM_NOTIFY_EVENT_SCAN_FAILURE^M
+<31727> Jan  2 10:14:53 (none) local5.err siege:  PCLDSG, ERROR, [965 ] {144893129}, ../Src/DsgController.c, 863, PclDsgFullScanFail(): Scan failed, reporting it^M
+<31728> Jan  2 10:14:53 (none) local5.err siege:  PCLDIAGMGR, ERROR, [1050] {144893130}, DiagMgrTunerCounters.cpp, 369, DiagMgrTunerCountersUpdateOnReTune : eTuner = 7 not found in the list.^M
+<31729> Jan  2 10:14:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20002 checking time:0 watchables count:9
+<31730> Jan  2 10:15:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31731> Jan  2 10:15:33 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31732> Jan  2 10:15:53 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31733> Jan  2 10:16:13 (none) user.warn siege: java:[1185] WARN  [SRecov] UTILITY.UTILITY - [StackRecovery.logStatus()] wating time:20001 checking time:0 watchables count:9
+<31734> Jan  2 10:16:14 (none) user.info kernel: usb 1-1: new high speed USB device using ehci-brcm and address 2
+<31735> Jan  2 10:16:14 (none) user.info kernel: usb 1-1: configuration #1 chosen from 1 choice
+<31736> Jan  2 10:16:14 (none) user.info kernel: scsi2 : SCSI emulation for USB Mass Storage devices
+<31737> Jan  2 10:16:14 (none) user.debug kernel: usb-storage: device found at 2
+<31738> Jan  2 10:16:14 (none) user.debug kernel: usb-storage: waiting for device to settle before scanning
+<31739> Jan  2 10:16:18 (none) daemon.err udevd-event[13416]: wait_for_sysfs: waiting for '/sys/devices/platform/ehci-brcm.0/usb1/1-1/1-1:1.0/host2/ioerr_cnt' failed
+<31740> Jan  2 10:16:20 (none) user.notice kernel: scsi 2:0:0:0: Direct-Access     Verbatim STORE N GO       1100 PQ: 0 ANSI: 4
+<31741> Jan  2 10:16:20 (none) user.notice kernel: sd 2:0:0:0: [sda] 15669248 512-byte logical blocks: (8.02 GB/7.47 GiB)
+<31742> Jan  2 10:16:20 (none) user.notice kernel: sd 2:0:0:0: [sda] Write Protect is off
+<31743> Jan  2 10:16:20 (none) user.debug kernel: sd 2:0:0:0: [sda] Mode Sense: 43 00 00 00
+<31744> Jan  2 10:16:20 (none) user.err kernel: sd 2:0:0:0: [sda] Assuming drive cache: write through
+<31745> Jan  2 10:16:20 (none) user.notice kernel: sd 2:0:0:0: Attached scsi generic sg0 type 0
+<31746> Jan  2 10:16:20 (none) user.debug kernel: usb-storage: device scan complete
+<31747> Jan  2 10:16:20 (none) user.err kernel: sd 2:0:0:0: [sda] Assuming drive cache: write through
+<31748> Jan  2 10:16:20 (none) user.info kernel:  sda:
+<31749> Jan  2 10:16:20 (none) user.info kernel:  sda1
+<31750> Jan  2 10:16:20 (none) user.err kernel: sd 2:0:0:0: [sda] Assuming drive cache: write through
+<31751> Jan  2 10:16:20 (none) user.notice kernel: sd 2:0:0:0: [sda] Attached SCSI removable disk
+<31752> Jan  2 10:16:23 (none) daemon.err udevd-event[13422]: wait_for_sysfs: waiting for '/sys/devices/platform/ehci-brcm.0/usb1/1-1/1-1:1.0/host2/target2:0:0/ioerr_cnt' failed

@@ -1,0 +1,32 @@
+Fri Jun 21 02:56:54 CST 2019 STBinit Start
+Fri Jun 21 02:56:54 CST 2019 STBinit.sh: Deleting /mnt/ffs/opt-storage/volatilestorage/ contents
+Turning off ALL logging to flash
+We need new dd from tar file, extracting it to /downloads
+STBinit.sh: COA is 0xb8280000
+STBinit.sh: Writing opt.img
+STBinit.sh: - Extracting opt.img.sha1 into /downloads
+STBinit.sh: - opt_sha1countblock=15092 opt_sha1bsblock=1024 opt_sha1length=15454208
+Fri Jun 21 02:56:58 CST 2019 STBinit Before mount mtd3 jffs2
+Fri Jun 21 02:56:58 CST 2019 STBinit Set NextObjectAddress 0
+/mnt/ffs/opt-images/opt2 15454208
+Fri Jun 21 02:56:58 CST 2019 STBinit Using optimg=/mnt/ffs/opt-images/opt2, optbkp=/mnt/ffs/opt-images/opt1, optimg_to_be_moved=/mnt/ffs/opt2
+killing flash_cp.sh thread
+Fri Jun 21 02:57:42 CST 2019 STBinit.sh: - wait_for_pdflush completed
+STBinit.sh: - Extracting opt.img to /mnt/ffs/opt-images/opt2
+STBinit.sh: - Padding to 32Mb
+STBinit.sh: - /mnt/ffs/opt-images/opt2 size=15454208 /mnt/ffs/opt-images/opt1 size=15454208 pad size=2646016
+Fri Jun 21 03:01:04 CST 2019 STBinit After extract opt.img and padding.
+STBinit.sh: - opt_sha1sumblock=934eb6b8b833b61d70a3e660ffc25aee85b241e3 opt_sha1burnb=934eb6b8b833b61d70a3e660ffc25aee85b241e3
+writing opt image complete
+Fri Jun 21 03:01:09 CST 2019 STBinit Extract OCAP image
+STBinit.sh: - obj_sha1countblock=6564 obj_sha1bsblock=1024 obj_sha1length=6721048
+Fri Jun 21 03:01:13 CST 2019 STBinit Flash ocap into /dev/mtd2.
+STBinit.sh: - Erasing /dev/mtd2
+erase complete
+STBinit.sh: - Extracting DCX3200P3.obj to /dev/mtd2
+STBinit.sh: - obj_sha1sumblock=39d272bbf0e8d53aab8207c3e102620f1b77dfaf obj_sha1burnb=39d272bbf0e8d53aab8207c3e102620f1b77dfaf
+Fri Jun 21 03:02:39 CST 2019 STBinit Flashing done, Update SUDB, put new image on the NEXT.
+STBinit.sh: OCAP image in /dev/mtd2 is now boot object
+upgrade complete
+STBinit.sh Successful, killing stack
+Fri Jun 21 03:02:42 CST 2019 STBinit Successfully done.
